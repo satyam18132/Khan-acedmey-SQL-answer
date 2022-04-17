@@ -1,0 +1,6 @@
+create table books (id integer, name text, rating integer);
+
+insert into books values(1, "the sppider man", 9/10);
+insert into books values(2, "music", 4/10);
+insert into books values(3, "tarin to pakistan", 2/10);
+insert into books values(4, "art", 3/10);
