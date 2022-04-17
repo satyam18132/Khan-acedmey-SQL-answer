@@ -1,0 +1,14 @@
+create table cars(s_n integer, name_of_car text, ownered_to text, price_in_lakhs integer, service_cost_per_year integer);
+
+insert into cars values(1, "jeep", "Satyam Singh", 18, 4000); 
+insert into cars values(2, "creta", "Lakhpal singh", 10.45, 7720);
+insert into cars values(3, "brezza", "Santosh rana", 28, 9200); 
+insert into cars values(4, "nexon", "Ankit ahluvaliya", 13, 4390); 
+insert into cars values(5, "thar", "Baajiraav", 17, 4400); 
+insert into cars values(6, "safari", "Chinmay", 8, 7600); 
+insert into cars values(7, "innova", "Roshan singh soddi", 23, 3400); insert into cars values(8, "mercedies", "Ayushmaan", 93, 5500); 
+insert into cars values(9, "hector", "Nandanlaal", 43, 6500); 
+insert into cars values(10, "volvo", "Alex maukala", 25, 4800); 
+insert into cars values(11, "tarzon", "Tirupati nath", 8.54, 8200); 
+insert into cars values(12, "duster", "Vishvanath", 12, 7700);
+
